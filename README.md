@@ -1,5 +1,11 @@
 <div align="center">
   <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:0EA5E9,70:F59E0B,100:F97316&height=110&section=header"
+    alt="Waving header"
+    width="100%"
+  />
+
+  <img
     src="tigritos-banner.png"
     alt="Tigritos banner"
     width="100%"
@@ -78,12 +84,12 @@ I’m a **Full‑Stack App Developer** focused on building **mobile apps** with 
 ## GitHub stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JuanLiporaci&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLiporaci&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JuanLiporaci&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLiporaci&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top langs" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=JuanLiporaci&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=JuanLiporaci&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
 </div>
 
 ---

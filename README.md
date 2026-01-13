@@ -1,9 +1,18 @@
 <div align="center">
-  <img src="Tigritos%20logo.jpg" alt="Tigritos" width="180" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:0EA5E9,70:F59E0B,100:F97316&height=190&section=header&text=Juan%20Liporaci&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20App%20Developer%20%7C%20React%20Native%20%7C%20AI%20Automation%20%7C%20Solidity&descAlignY=58&descSize=18"
+    alt="Juan Liporaci banner"
+    width="100%"
+  />
 
-  # Juan Liporaci
+  <br />
+  <br />
 
-  **Full‑Stack App Developer · React Native Specialist · AI Automation**
+  <img src="Tigritos%20logo.jpg" alt="Tigritos logo" width="92" />
+
+  <h1>Juan Liporaci</h1>
+
+  <strong>Full‑Stack App Developer · React Native Specialist · AI Automation</strong>
 
   <a href="https://www.linkedin.com/in/juan-liporaci-6610bb169/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Liporaci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.tigritos.app&pcampaignid=web_share"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Tigritos-34A853?style=for-the-badge&logo=googleplay&logoColor=white" /></a>

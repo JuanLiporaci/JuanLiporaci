@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:0EA5E9,70:F59E0B,100:F97316&height=190&section=header&text=Juan%20Liporaci&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20App%20Developer%20%7C%20React%20Native%20%7C%20AI%20Automation%20%7C%20Solidity&descAlignY=58&descSize=18"
-    alt="Juan Liporaci banner"
+    src="tigritos-banner.png"
+    alt="Tigritos banner"
     width="100%"
   />
 

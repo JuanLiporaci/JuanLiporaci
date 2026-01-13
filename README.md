@@ -27,7 +27,7 @@ I’m a **Full‑Stack App Developer** focused on building **mobile apps** with 
 
 ---
 
-## What I do (recruiter-friendly)
+## What I do
 
 - **React Native end-to-end**: architecture, performance, navigation, state management, offline-first, API integration, and shipping to **Google Play / App Store**.
 - **Full‑Stack**: APIs, auth, databases, integrations, deployments.
@@ -92,10 +92,4 @@ I’m a **Full‑Stack App Developer** focused on building **mobile apps** with 
 
 - **LinkedIn**: https://www.linkedin.com/in/juan-liporaci-6610bb169/
 
----
-
-## Inspiration / resources
-
-- Templates: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
-- Badges: https://dev.to/envoy1084/150-badges-for-github-pnk
 

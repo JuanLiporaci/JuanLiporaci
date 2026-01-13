@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="tigritos-banner.svg"
+    src="tigritos-banner-wide.png"
     alt="Juan Liporaci banner"
     width="100%"
   />

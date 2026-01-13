@@ -8,7 +8,7 @@
   <br />
   <br />
 
-  <img src="Tigritos%20logo.jpg" alt="Tigritos logo" width="92" />
+
 
   <h1>Juan Liporaci</h1>
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="tigritos-banner-wide.png" alt="Juan Liporaci banner" width="100%" />
+  <img src="banner.png" alt="Juan Liporaci — Full-stack &amp; mobile developer, founder of Tigritos" width="100%" />
 
   <h1>Hey, I'm Juan 👋</h1>
 
